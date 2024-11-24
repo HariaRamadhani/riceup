@@ -1,0 +1,9 @@
+[submodule "riceup-mobile"]
+	path = riceup-mobile
+	url = https://github.com/C242-PS263/riceup-mobile
+[submodule "riceup-cloud-computing"]
+	path = riceup-cloud-computing
+	url = https://github.com/C242-PS263/riceup-cloud-computing
+[submodule "riceup-machine-learning"]
+	path = riceup-machine-learning
+	url = https://github.com/C242-PS263/riceup-machine-learning
